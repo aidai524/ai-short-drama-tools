@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.mp4
+*.jpg
+*.png
+.env
+output/
+seedance_output/
+kling_output/
+ep*_output/
+ep*_v*_output/
